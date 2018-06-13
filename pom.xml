@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>COM.TEST</groupId>
   <artifactId>MAVEN-PROJECT</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>3.0.1-SNAPSHOT</version>
   
    <dependencies>
   <dependency>
